@@ -9,6 +9,7 @@ void printArr(const int* arr, const int size) {
     for (size_t i = 0; i < size; ++i)
         cout << arr[i] << '\t';
     cout << endl;
+    // smth
 }
 
 int bindarySearchRecursion(int arr[], int l, int r, int x) {
